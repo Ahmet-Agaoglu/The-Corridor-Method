@@ -1,4 +1,4 @@
-# The-Corridor-Method
+# The-Corridor-Method [![DOI](https://zenodo.org/badge/902868851.svg)](https://doi.org/10.5281/zenodo.14446619)
 
 ## Authors
 [Ahmet Agaoglu](https://github.com/Ahmet-Agaoglu), Namik Ciblak
